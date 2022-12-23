@@ -7,7 +7,7 @@ Systems Analyst and Programmer with more than 5 years working with different tec
 
 ### 👨‍💻 Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/nespaucar)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/nespaucar)](https://github.com/nespaucar)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/nespaucar)](https://github.com/nespaucar)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/nespaucar)](https://github.com/nespaucar)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/nespaucar)](https://github.com/nespaucar)
@@ -15,14 +15,17 @@ Systems Analyst and Programmer with more than 5 years working with different tec
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/nespaucar)](https://github.com/nespaucar)
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongoDb&link=https://github.com/nespaucar)](https://github.com/nespaucar)
+[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=Node.js&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/nespaucar)](https://github.com/nespaucar)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/nespaucar)](https://gitlab.com/nespaucar)
 
-[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=nespaucar)](https://github.com/nespaucar/github-readme-stats)
+[![MySQL](https://img.shields.io/badge/-mysql-black?style=flat&logo=mysql&link=https://github.com/nespaucar)](https://github.com/nespaucar)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&link=https://github.com/nespaucar)](https://github.com/nespaucar)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongoDb&link=https://github.com/nespaucar)](https://github.com/nespaucar)
+
+[![Nestor's github stats](https://github-readme-stats.vercel.app/api?username=nespaucar)](https://github.com/nespaucar/github-readme-stats)
 
 ### Social
 [![Twitter](https://img.shields.io/twitter/follow/nespaucar1?style=social)](https://twitter.com/nespaucar1)
