@@ -26,6 +26,6 @@ Systems Analyst and Programmer with more than 5 years working with different tec
 
 ### Social
 [![Twitter](https://img.shields.io/twitter/follow/nespaucar1?style=social)](https://twitter.com/nespaucar1)
-[![Linkedin](https://img.shields.io/badge/-néstor-alexander-paucar-carhuatanta-ba192b185-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/néstor-alexander-paucar-carhuatanta-ba192b185/)](https://www.linkedin.com/in/nespaucar/)
+[![Linkedin](https://img.shields.io/badge/-nespaucar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/néstor-alexander-paucar-carhuatanta-ba192b185/)](https://www.linkedin.com/in/nespaucar/)
 [![Instagram](https://img.shields.io/badge/-nespaucar1-blue?style=social&logo=Instagram&link=https://www.instagram.com/nespaucar1/)](https://www.instagram.com/nespaucar1/)
 [![Facebook](https://img.shields.io/badge/-nespaucar-blue?style=social&logo=Facebook&link=https://www.facebook.com/nespaucar/)](https://www.facebook.com/nespaucar/)
