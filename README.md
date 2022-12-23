@@ -7,7 +7,7 @@ Systems Analyst and Programmer with more than 5 years working with different tec
 
 ### 👨‍💻 Languages and Tools
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/nespaucar)](https://github.com/nespaucar)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/nespaucar)]
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/nespaucar)](https://github.com/nespaucar)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/nespaucar)](https://github.com/nespaucar)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/nespaucar)](https://github.com/nespaucar)
