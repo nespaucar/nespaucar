@@ -2,7 +2,7 @@
 <p><em>FullStack Developer</em></p>
 
 <h5>
-Developer with more than 8 years working with different technologies. I started working when I was in the half carrier and I continue enjoying it so far. I love learning new technologies and improving codification. My very first language was Java, but I also learned some others such as  PHP,  Python, JavaScript, and their Frameworks and/or libraries such as Laravel, Angular,  React,  Vue, and  Flask.  I love coding for mobile development as well.  I  published some apps in Play Store which were built with Android in Java, but I  also developed with Flutter and  React  Native.  Regarding databases, I  used  MySQL,  PostgreSQL, SQLite, and MongoDB. I used remote servers in Linux and Windows as cPanel and Plesk. Other than that I enjoy working in other technologies such as Nintex Workflows and Forms integrated with SarePoint.
+Developer with more than 8 years working with different technologies. I started working when I was in the half carrier and I continue enjoying it so far. I love learning new technologies and improving codification. My very first language was Java, but I also learned some others such as  PHP,  Python, JavaScript, and their Frameworks and/or libraries such as Laravel, Angular,  React,  Vue, and  Flask.  I love coding for mobile development as well.  I  published some apps in Play Store which were built with Android in Java, but I  also developed with Flutter and  React  Native.  Regarding databases, I  used  MySQL,  PostgreSQL, SQLite, and MongoDB. I used remote servers in Linux and Windows as cPanel and Plesk. In addition of that, I enjoy working in other technologies such as Nintex Workflows and Forms integrated with SharePoint.
 </h5>
 
 ### 👨‍💻 Languages and Tools
