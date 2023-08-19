@@ -2,7 +2,7 @@
 <p><em>FullStack Developer</em></p>
 
 <h5>
-Systems Analyst and Programmer with more than 5 years working with different technologieslearning by myself. I started working as a Programmer since I was in the middle of my carrier until now. I love learning new technologies and improving the codification. My very first language was Java, but I also learnt  some  others  such  as  PHP,  Python  and  JavaScript  and  also  their  Frameworks  as  Laravel, Angular,  React,  Vue  and  Flask.  I  also  love  coding  for  mobile  development.  I  published  some applications at Play Store. My profile is Equipo Serviflash. These applications were built with Android, but  I  also  developed  with  Flutter  and  React  Native.  About  databases  I  used  MySQL,  PostgreSQL, SQLite, MongoDB. I used remote servers in Linux and Windows as cPanel and Plesk. I worked also in other technologies as Nintex Workflows and Forms for Hastings Deering in Australia
+Developer with more than 8 years working with different technologies. I started working when I was in the half carrier and I continue enjoying it so far. I love learning new technologies and improving codification. My very first language was Java, but I also learned some others such as  PHP,  Python, JavaScript, and their Frameworks and/or libraries such as Laravel, Angular,  React,  Vue, and  Flask.  I love coding for mobile development as well.  I  published some apps in Play Store which were built with Android in Java, but I  also developed with Flutter and  React  Native.  Regarding databases, I  used  MySQL,  PostgreSQL, SQLite, and MongoDB. I used remote servers in Linux and Windows as cPanel and Plesk. Other than that I enjoy working in other technologies such as Nintex Workflows and Forms integrated with SarePoint.
 </h5>
 
 ### 👨‍💻 Languages and Tools
@@ -25,7 +25,7 @@ Systems Analyst and Programmer with more than 5 years working with different tec
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/nespaucar)](https://github.com/nespaucar) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongoDb&link=https://github.com/nespaucar)](https://github.com/nespaucar)
 
-[![Nestor's github stats](https://github-readme-stats.vercel.app/api?username=nespaucar)](https://github.com/nespaucar/github-readme-stats)
+[![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nespaucar)](https://github.com/nespaucar/github-readme-stats)
 
 ### Social
 [![Twitter](https://img.shields.io/twitter/follow/nespaucar1?style=social)](https://twitter.com/nespaucar1)
